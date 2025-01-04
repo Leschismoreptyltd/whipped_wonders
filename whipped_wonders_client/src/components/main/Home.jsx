@@ -12,7 +12,6 @@ const Home = () => {
                 <div>
                     
                 </div>
-                Special Occations
 
             </div>
         </div>

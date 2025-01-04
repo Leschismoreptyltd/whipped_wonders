@@ -29,7 +29,8 @@ module.exports = withMT( {
         mrsSaintDelafield: ["Mrs Saint Delafield", "sans-serif"],
         specialElite:["Special Elite", "sans-serif"],
         notoSerifJapanese:["Noto Serif JP", "sans-serif"],
-        logoFont: ["Great Vibes","sans-serif"]
+        logoFont: ["Great Vibes","sans-serif"],
+        paragraphFont: ["Quicksand", "sans-serif"]
         // Add more custom font families as needed
       }
     },
