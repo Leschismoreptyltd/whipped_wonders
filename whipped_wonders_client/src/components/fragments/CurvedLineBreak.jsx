@@ -1,4 +1,4 @@
-import textBreak from "../../assets/text-break.svg"
+import textBreak from "/text-break.svg"
 const CurvedLineBreak = () => {
     return(
         <>
